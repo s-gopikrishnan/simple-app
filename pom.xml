@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>io.gtech</groupId>
 	<artifactId>simple-app</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>simple-app</name>
 	<description>Demo project for Spring Boot</description>
 
